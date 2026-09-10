@@ -1,0 +1,5 @@
+tweet,intent,expected_reply,should_escalate,escalation_reason
+"Why is my order delayed?","order_status","Provide the customer with relevant order-status guidance.",false,""
+"I was charged twice","duplicate_charge","Acknowledge the duplicate charge and explain the resolution process.",true,"Requires transaction verification."
+"I cannot access my account","account_access","Provide the standard account recovery guidance.",false,""
+"I want a refund","refund_request","Explain the applicable refund process.",true,"Requires account-specific verification."
