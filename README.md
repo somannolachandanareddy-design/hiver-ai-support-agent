@@ -2,6 +2,8 @@
 
 An AI-powered customer support agent built using the **Customer Support on Twitter (TWCS)** dataset. The system learns from historical support conversations to classify customer issues, retrieve similar resolved cases, generate grounded responses, and decide whether to auto-handle or escalate to a human.
 
+The DataSet I took from kaggle is twcs.csv (It conists of Row : 1048556) It is not supporting to upload the Dataset in the github.
+
 Sample  Images of Expected Execution of Project :
 <img width="1486" height="1074" alt="image" src="https://github.com/user-attachments/assets/11655456-35e0-482b-b61b-f04d8b9e3141" />
 
